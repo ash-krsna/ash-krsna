@@ -1,82 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:2563eb&height=220&section=header&text=Akash&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20Builder%20%7C%20Cyber%20Security%20Explorer&descAlignY=58&animation=fadeIn" />
+# Akash
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1100&color=22D3EE&center=true&vCenter=true&width=950&lines=Building+portfolio-grade+frontend+experiences;React+and+JavaScript+developer;Security-minded+creator+with+a+hacker+vibe;Designing+clean%2C+modern%2C+resilient+web+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Frontend+Developer;React+%7C+JavaScript+Enthusiast;Cyber+Security+Explorer+%F0%9F%94%90;Building+Clean%2C+Secure+%26+Modern+Web+Experiences" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Portfolio%20Mode-Enabled-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/React-Frontend%20Focused-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Cyber%20Security-Curious%20Builder-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-<img src="https://img.shields.io/badge/Dark%20UI-Premium%20Aesthetic-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Frontend%20Development-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=111827" />
+<img src="https://img.shields.io/badge/Domain-Cyber%20Security-0f172a?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=111827" />
+<img src="https://img.shields.io/badge/Code-JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=111827" />
+<img src="https://img.shields.io/badge/UI-Modern%20Dark%20Theme-0f172a?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" />
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Portfolio_Home-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-Explore_Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://your-portfolio-link.com">
-  <img src="https://img.shields.io/badge/Portfolio-Live_Showcase-14b8a6?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## Portfolio Snapshot
-
-<table>
-  <tr>
-    <td width="60%">
-
-### Akash
-
-Frontend developer focused on building polished, fast, and visually strong web experiences with **React** and **JavaScript**.  
-I bring a **portfolio mindset** to everything I build: sharp UI, clean structure, meaningful interactions, and a growing **cyber security awareness** that keeps products thoughtful and resilient. 🔐
-
-I enjoy turning ideas into interfaces that feel premium, modern, and dependable.
-
-  </td>
-    <td width="40%">
+## <img src="https://img.icons8.com/fluency/48/source-code.png" width="28"> About Me
 
 ```bash
 > whoami
 Akash
 
-> current_focus
-React + JavaScript + UI Craft
+> role
+Frontend Developer | React Developer | Security-minded Builder
 
 > mindset
-Design clean. Build smart. Think secure.
+Crafting sleek interfaces with clean code and a hacker's curiosity
 
-> status
-Open to projects and collaboration
+> mission
+To build fast, elegant, and secure digital experiences that users love.
 ```
 
-  </td>
-  </tr>
-</table>
+- Passionate about creating modern web interfaces with React and JavaScript
+- Strong interest in cyber security, secure coding practices, and hacker culture
+- Focused on blending performance, design, and security mindset
+- Constantly learning, building, and leveling up through real-world projects
 
 ---
 
-## About Me
-
-- Frontend developer with a strong interest in **React**, **JavaScript**, and modern UI development
-- Drawn to **dark, clean, premium interfaces** that feel like real products, not just pages
-- Learning cyber security to become a more **security-aware developer**
-- Interested in building projects that balance **design, performance, and trust**
-- Always improving through project work, experimentation, and continuous learning
-
----
-
-## Tech Stack
+## <img src="https://img.icons8.com/fluency/48/source-code.png" width="28"> Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,git,github,vscode,figma&theme=dark" />
@@ -84,107 +58,96 @@ Open to projects and collaboration
 
 <br/>
 
-<table>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>React, JavaScript, HTML5, CSS3</td>
-  </tr>
-  <tr>
-    <td><strong>Styling</strong></td>
-    <td>Bootstrap, Tailwind CSS, Responsive Design, Dark UI</td>
-  </tr>
-  <tr>
-    <td><strong>Workflow</strong></td>
-    <td>Git, GitHub, VS Code, Figma</td>
-  </tr>
-  <tr>
-    <td><strong>Security Interest</strong></td>
-    <td>Secure coding, OWASP basics, frontend safety, hacker mindset</td>
-  </tr>
-</table>
+<div align="center">
+
+| Frontend | Styling | Tools | Security |
+|----------|---------|-------|----------|
+| React, JavaScript, HTML5 | CSS3, Tailwind, Bootstrap | Git, GitHub, VS Code, Figma | Secure Coding, Web Security Basics, Cyber Awareness |
+
+</div>
 
 ---
 
-## Featured Work
+## <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="28"> GitHub Analytics
 
-<table>
-  <tr>
-    <td width="100%">
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+</div>
+
+---
+
+## <img src="https://img.icons8.com/fluency/48/project.png" width="28"> Featured Project
+
+<div align="center">
 
 ### Vehicle Tracker System
 
-Portfolio-style enterprise dashboard project built around live GPS simulation, route tracking, analytics, alert systems, and IoT-inspired monitoring. Designed to feel like a professional fleet product with a dark premium interface.
-
-**Highlights**
-- Real-time GPS vehicle movement and route updates
-- Overspeed, geofence, battery, fuel, and panic alerts
-- Fleet-style dashboard layout with controls and activity logs
-- Playback mode, analytics charts, and simulated backend persistence
+**A smart, real-time vehicle GPS tracking dashboard with live monitoring, analytics, alerts, and simulated IoT telemetry.**
 
 <a href="https://your-live-project-link.com">
-  <img src="https://img.shields.io/badge/Live_Demo-Open_Project-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY">
-  <img src="https://img.shields.io/badge/Source_Code-Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Source_Code-View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-  </td>
-  </tr>
-</table>
+</div>
+
+**Highlights**
+- Real-time GPS simulation with live vehicle movement
+- Route history, playback, geofencing, and alert system
+- Dark premium dashboard UI using modern frontend tools
+- Enterprise-inspired tracking interface with analytics and control panel
 
 ---
 
-## Cyber Security Journey
+## <img src="https://img.icons8.com/fluency/48/console.png" width="28"> Cyber Security Journey
 
 <div align="center">
 
 ```text
-[ akash@secure-terminal ] $ boot --security-profile
-[✓] Exploring secure development practices
-[✓] Learning to think like an attacker
-[✓] Understanding safer frontend patterns
-[✓] Building projects with a defense mindset
+[ Akash@secure-shell ] $ initializing security mindset...
+[✓] Exploring web vulnerabilities
+[✓] Learning secure development practices
+[✓] Building projects with defensive thinking
+[✓] Staying curious about ethical hacking and cyber defense
 ```
 
 </div>
 
-- Exploring cyber security alongside frontend development
-- Interested in ethical hacking, web application risks, and secure design thinking
-- Learning topics such as authentication flow safety, browser vulnerabilities, and OWASP fundamentals
-- Using that knowledge to become a developer who builds with more awareness and responsibility
+- Interested in ethical hacking, web security, and application hardening
+- Learning how attackers think to become a better developer
+- Exploring topics like:
+- Authentication security
+- Secure frontend practices
+- OWASP concepts
+- Browser-side vulnerabilities
+- Safe API consumption
 
 ---
 
-## GitHub Analytics
+## <img src="https://img.icons8.com/fluency/48/prize.png" width="28"> Achievements
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" />
+  <img src="https://img.shields.io/badge/Frontend-Reactor-61DAFB?style=for-the-badge&logo=react&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/JavaScript-Builder-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/Security-Mindset-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/Open_Source-Learner-ffffff?style=for-the-badge&logo=github&logoColor=0D1117" />
 </div>
 
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" />
-</div>
+- Built modern UI-focused projects with strong attention to detail
+- Continuously improving in React ecosystem and component architecture
+- Developing a parallel journey in cyber security and secure development
+- Committed to becoming a developer who builds systems that are both beautiful and resilient
 
 ---
 
-## Achievements
-
-<div align="center">
-  <img src="https://img.shields.io/badge/UI-Building%20with%20Intent-38bdf8?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-Component%20Driven-61DAFB?style=for-the-badge&logo=react&logoColor=0D1117" />
-  <img src="https://img.shields.io/badge/JavaScript-Always%20Improving-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D1117" />
-  <img src="https://img.shields.io/badge/Security-Mindset%20Active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=0D1117" />
-</div>
-
-- Built project work with a stronger focus on interface quality and user experience
-- Growing as a frontend developer through React-based practice and real implementations
-- Developing a blended identity of **developer + security-aware builder**
-- Working toward a portfolio that feels both creative and professional
-
----
-
-## Contact
+## <img src="https://img.icons8.com/fluency/48/handshake.png" width="28"> Contact
 
 <div align="center">
 
@@ -192,14 +155,11 @@ Portfolio-style enterprise dashboard project built around live GPS simulation, r
   <img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/YOUR_USERNAME">
   <img src="https://img.shields.io/badge/GitHub-Follow_Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://your-portfolio-link.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-14b8a6?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
-</a>
 
 </div>
 
@@ -207,209 +167,10 @@ Portfolio-style enterprise dashboard project built around live GPS simulation, r
 
 <div align="center">
 
-## Quote
+## Developer Motto
 
-> "Build interfaces that feel powerful, write code that stays clean, and think one step ahead."
+> "Code with creativity. Build with precision. Defend with mindset."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:2563eb&height=120&section=footer" />
-
-</div>
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:2563eb&height=220&section=header&text=Akash&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20Learner%20%7C%20Cyber%20Security%20Enthusiast&descAlignY=58&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1100&color=22D3EE&center=true&vCenter=true&width=950&lines=Building+modern+frontend+experiences;Learning+React%2C+APIs%2C+and+full-stack+development;Exploring+cyber+security+and+ethical+hacking;Working+with+MongoDB+and+MySQL" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Portfolio%20Mode-Enabled-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/React-Frontend%20Focused-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Cyber%20Security-Curious%20Builder-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-<img src="https://img.shields.io/badge/Dark%20UI-Premium%20Aesthetic-111827?style=for-the-badge&logo=github&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://github.com/ash-krsna">
-  <img src="https://img.shields.io/badge/GitHub-Portfolio_Home-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://ash-krsna.github.io/codex-">
-  <img src="https://img.shields.io/badge/Portfolio-Live_Showcase-14b8a6?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## Portfolio Snapshot
-
-<table>
-  <tr>
-    <td width="60%">
-
-### Akash
-
-Frontend developer focused on building modern, responsive, and visually clean web experiences with **JavaScript** and **React**.
-I bring a **portfolio mindset** to everything I build: sharp UI, clean structure, meaningful interactions, and a growing **cyber security awareness** that keeps products thoughtful and resilient.
-
-I enjoy turning ideas into interfaces that feel polished, practical, and professional.
-
-  </td>
-    <td width="40%">
-
-```bash
-> whoami
-Akash
-
-> current_focus
-React + APIs + Full-Stack Development
-
-> mindset
-Build clean. Learn fast. Think secure.
-
-> status
-Open to projects and collaboration
-```
-
-  </td>
-  </tr>
-</table>
-
----
-
-## About Me
-
-- Passionate frontend developer building modern web applications
-- Learning React, APIs, and full-stack development
-- Exploring Cyber Security and ethical hacking
-- Working with MongoDB and MySQL
-- Interested in clean UI, responsive design, and practical JavaScript projects
-
----
-
-## Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,mongodb,mysql,linux,github,vscode&theme=dark" />
-</div>
-
-<br/>
-
-<table>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>HTML, CSS, Bootstrap, JavaScript, React</td>
-  </tr>
-  <tr>
-    <td><strong>Backend & Database</strong></td>
-    <td>Node.js, MongoDB, MySQL</td>
-  </tr>
-  <tr>
-    <td><strong>Cyber Security</strong></td>
-    <td>Linux, Networking Basics, Web Security Fundamentals</td>
-  </tr>
-</table>
-
----
-
-## Featured Work
-
-<table>
-  <tr>
-    <td width="100%">
-
-### Vehicle Tracker
-
-A responsive web application that allows users to track vehicle details using dynamic UI and JavaScript-based interactions.
-
-**Tech Stack**
-- HTML
-- CSS
-- JavaScript
-
-<a href="https://ash-krsna.github.io/codex-">
-  <img src="https://img.shields.io/badge/Live_Demo-Open_Project-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://github.com/ash-krsna">
-  <img src="https://img.shields.io/badge/GitHub-View_Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-  </td>
-  </tr>
-</table>
-
----
-
-## Cyber Security Journey
-
-<div align="center">
-
-```text
-[ akash@secure-terminal ] $ boot --security-profile
-[OK] Exploring secure development practices
-[OK] Learning to think like an attacker
-[OK] Understanding safer frontend patterns
-[OK] Building projects with a defense mindset
-```
-
-</div>
-
-- Exploring cyber security alongside frontend development
-- Interested in ethical hacking, web application risks, and secure design thinking
-- Learning topics such as authentication flow safety, browser vulnerabilities, and OWASP fundamentals
-- Using that knowledge to become a developer who builds with more awareness and responsibility
-
----
-
-## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ash-krsna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash-krsna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=ash-krsna&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" />
-</div>
-
----
-
-## Achievements
-
-<div align="center">
-  <img src="https://img.shields.io/badge/UI-Building%20with%20Intent-38bdf8?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-Component%20Driven-61DAFB?style=for-the-badge&logo=react&logoColor=0D1117" />
-  <img src="https://img.shields.io/badge/JavaScript-Always%20Improving-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D1117" />
-  <img src="https://img.shields.io/badge/Security-Mindset%20Active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=0D1117" />
-</div>
-
-- Built project work with a stronger focus on interface quality and user experience
-- Growing as a frontend developer through React-based practice and real implementations
-- Developing a blended identity of **developer + security-aware builder**
-- Working toward a portfolio that feels both creative and professional
-
----
-
-## Contact
-
-<div align="center">
-
-<a href="https://github.com/ash-krsna">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://ash-krsna.github.io/codex-">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-14b8a6?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## Quote
-
-> "Build interfaces that feel powerful, write code that stays clean, and think one step ahead."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:2563eb&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:00f7ff&height=120&section=footer" />
 
 </div>
