@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Akash
 
-<!--
-**ash-krsna/ash-krsna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Frontend Developer | MERN Stack Learner  
+🎯 Goal: Crack high-paying frontend role (60 LPA 🚀)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- HTML, CSS, Bootstrap
+- JavaScript (ES5/ES6)
+- React (Learning)
+- Node.js (Basics)
+- MongoDB (Learning)
+
+---
+
+## 🔥 Projects
+### 🚗 Vehicle Tracker
+- Live: https://ash-krsna.github.io/codex-
+- Features: Track vehicles, dynamic UI
+
+---
+
+## 📈 Currently Learning
+- React.js (Advanced)
+- API Integration
+- Full Stack Development
+
+---
+
+## 📫 Connect with me
+- GitHub: https://github.com/ash-krsna
+
+---
+
+⭐ “Consistency is the key to success”
