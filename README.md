@@ -1,52 +1,82 @@
-# Hi 👋, I'm Akash
+<h1 align="center">Hi 👋, I'm Akash</h1>
 
-🚀 Aspiring Frontend Developer | MERN Stack Learner  
-🎯 Goal: Crack high-paying frontend role (60 LPA 🚀)
+<h3 align="center">🚀 Frontend Developer | 🔐 Cyber Security Enthusiast | MERN Stack Learner</h3>
 
----
-
-## 🚀 About Me
-- 💻 Passionate about building real-world web applications  
-- 🔥 Focused on Frontend Development (React ecosystem)  
-- 📈 Improving daily with projects & consistency  
-- 🎯 Targeting product-based companies  
-
----
-
-## 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,mongodb,git,github" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Learner;Cyber+Security+Explorer;Building+Real+World+Projects;Never+Stop+Learning🚀&center=true&width=500&height=50">
 </p>
 
 ---
 
-## 🔥 Projects
+## 🚀 About Me
+- 💻 I build modern web applications using **HTML, CSS, JavaScript & React**
+- 🔐 Exploring **Cyber Security & Ethical Hacking**
+- 📊 Learning **Databases (MongoDB & MySQL)**
+- 🎯 Focused on becoming a **high-level developer + security expert**
+- ⚡ I believe in **execution > theory**
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
+</p>
+
+### 🔐 Cyber Security (Learning)
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github" />
+</p>
+
+---
+
+## 🔥 Featured Projects
 
 ### 🚗 Vehicle Tracker
 🔗 Live: https://ash-krsna.github.io/codex-  
 📌 Features:
 - Track vehicle details  
-- Dynamic UI updates  
+- Dynamic UI  
 - Responsive design  
 
 ---
 
-## 📊 GitHub Stats
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ash-krsna&show_icons=true&theme=radical)
+## 📊 GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ash-krsna&layout=compact&theme=radical)
-
----
-
-## 📈 Contribution Graph
-![GitHub Streak](https://streak-stats.demolab.com?user=ash-krsna&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ash-krsna&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash-krsna&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📚 Currently Learning
-- ⚛️ React.js (Advanced)
-- 🌐 API Integration
-- 🧠 Data Structures & Logic Building
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ash-krsna&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Current Focus
+
+- ⚛️ Mastering React.js  
+- 🌐 Working with APIs  
+- 🔐 Learning Cyber Security fundamentals  
+- 🧠 Strengthening problem-solving  
+
+---
+
+## 🏆 Achievements
+- 🚀 Built real-world frontend projects  
+- 📌 Strong base in JavaScript  
+- 🔥 Daily learning & consistency  
 
 ---
 
@@ -55,11 +85,6 @@
 
 ---
 
-## 🏆 Achievements
-- 🚀 Built multiple frontend projects  
-- 📌 Strong foundation in JavaScript  
-- 🔥 Consistent daily learner  
-
----
-
-⭐ *“Consistency is the key to success”*
+<p align="center">
+  ⭐ <b>"Consistency + Smart Work = Success"</b> ⭐
+</p>
