@@ -18,9 +18,7 @@ Building modern web applications with clean UI, accessibility, and a security-fi
 
 ---
 
-# 👨‍💻 About Me
-
-<img align="right" width="350" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=github_dark&line1=react%2CReact%2C61DAFB%3Bjavascript%2CJavaScript%2CF7DF1E%3Bhtml5%2CHTML5%2CE34F26%3B&line2=css3%2CCSS3%2C1572B6%3Bbootstrap%2CBootstrap%2C7952B3%3Bnode.js%2CNode.js%2C339933%3B&line3=mongodb%2CMongoDB%2C47A248%3Bmysql%2CMySQL%2C4479A1%3Blinux%2CLinux%2CFCC624%3B" />
+## 👨‍💻 About Me
 
 ```bash
 Name      : Akash Ohalkar
@@ -36,11 +34,9 @@ Goal      : Full Stack + Security Engineer
 Mindset   : Build Clean • Think Secure
 ```
 
-<br clear="right"/>
-
 ---
 
-# ⚙️ Tech Arsenal
+## ⚙️ Tech Arsenal
 
 <div align="center">
 
@@ -50,71 +46,65 @@ Mindset   : Build Clean • Think Secure
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-
 <td width="50%">
 
-## 🚗 Vehicle Tracker
+### 🚗 Vehicle Tracker
 
 Responsive vehicle tracking interface built using JavaScript.
 
-**Stack**
+**Stack:** `HTML` `CSS` `JavaScript`
 
-HTML • CSS • JavaScript
-
-🔗 https://ash-krsna.github.io/codex-
+<a href="https://ash-krsna.github.io/codex-">
+<img src="https://img.shields.io/badge/Live%20Demo-Open-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </td>
-
 <td width="50%">
 
-## 🌍 NGO Management System
+### 🌍 NGO Management System
 
 Donation platform, volunteer management, and NGO operations.
 
-**Stack**
+**Stack:** `Flask` `MySQL` `JavaScript`
 
-Flask • MySQL • JavaScript
+<img src="https://img.shields.io/badge/Full%20Stack-Project-2563eb?style=for-the-badge&logo=python&logoColor=white" />
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%">
 
-## 🏫 BSB International School
+### 🏫 BSB International School
 
 Responsive educational website.
 
-**Stack**
+**Stack:** `HTML` `CSS` `JavaScript`
 
-HTML • CSS • JavaScript
+<img src="https://img.shields.io/badge/Responsive-Website-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white" />
 
 </td>
-
 <td width="50%">
 
-## 👥 Random User API
+### 👥 Random User API
 
 Dynamic API integration project.
 
-**Stack**
+**Stack:** `HTML` `CSS` `JavaScript` `Fetch API`
 
-HTML • CSS • JavaScript • Fetch API
+<img src="https://img.shields.io/badge/API-Integrated-f59e0b?style=for-the-badge&logo=javascript&logoColor=white" />
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
 ### 🏢 Aptara Corporation
 
@@ -128,7 +118,7 @@ HTML • CSS • JavaScript • Fetch API
 
 ---
 
-# 🛡️ Cyber Security Journey
+## 🛡️ Cyber Security Journey
 
 ```text
 ┌─────────────────────────────────────┐
@@ -146,54 +136,52 @@ HTML • CSS • JavaScript • Fetch API
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ash-krsna&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ash-krsna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash-krsna&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash-krsna&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=C9D1D9" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ash-krsna&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ash-krsna&theme=tokyonight&hide_border=true&background=020617&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🎯 2026 Mission
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ash-krsna&theme=tokyonight&no-frame=true&row=1&column=7" />
+### Building
 
-</div>
+* React-based applications
+* API-integrated interfaces
+* Production-ready frontend projects
+* Full-stack project workflows
 
----
+</td>
+<td width="50%">
 
-# 📈 Contribution Activity
+### Learning
 
-<div align="center">
+* Advanced JavaScript
+* React ecosystem
+* Node.js and Express
+* Cyber Security fundamentals
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ash-krsna&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-# 🎯 2026 Mission
-
-* ⚛️ Master React Ecosystem
-* 🌐 Build Production-Ready Applications
-* 🗄️ Strengthen Backend Skills
-* 🔐 Learn Cyber Security Deeply
-* 🚀 Contribute to Open Source
-* 💼 Transition into a High-Growth Developer Role
+</td>
+</tr>
+</table>
 
 ---
 
-# 🤝 Connect
+## 🤝 Connect
 
 <div align="center">
 
