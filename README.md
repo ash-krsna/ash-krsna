@@ -1,84 +1,53 @@
-````md
+# <div align="center">👋 Hi, I'm Akash Ohalkar</div>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:2563eb&height=230&section=header&text=Akash%20Ohalkar&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20Learner%20%7C%20Cyber%20Security%20Enthusiast&descAlignY=58&animation=fadeIn" />
+### Frontend Developer • React Enthusiast • Cyber Security Explorer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+modern+frontend+experiences;Learning+React%2C+APIs+and+Full-Stack+Development;Exploring+Cyber+Security+and+Ethical+Hacking;Writing+clean+code+with+a+security+mindset" />
+Building modern web applications with a focus on clean UI, performance, and secure development.
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/Frontend-Developer-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/React-Learner-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Cyber%20Security-Enthusiast-0f172a?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-<img src="https://img.shields.io/badge/Open%20To-Collaboration-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://github.com/ash-krsna">
-<img src="https://img.shields.io/badge/GitHub-ash--krsna-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://ash-krsna.github.io/codex-">
-<img src="https://img.shields.io/badge/Live%20Portfolio-Visit%20Now-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-14b8a6?style=for-the-badge)](https://ash-krsna.github.io/codex-)
+[![GitHub](https://img.shields.io/badge/GitHub-ash--krsna-111827?style=for-the-badge\&logo=github)](https://github.com/ash-krsna)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-Hi, I’m **Akash Ohalkar**, a frontend developer focused on building clean, responsive, and modern web applications.
-
-I enjoy creating user-friendly interfaces using **HTML, CSS, JavaScript, React, APIs, MongoDB, and MySQL**.
-
-Along with frontend development, I am also exploring **Cyber Security**, ethical hacking, Linux, networking, and secure coding practices.
-
-```bash
-> current_focus
-React + APIs + Full-Stack Development
-
-> mindset
-Build clean. Learn fast. Think secure.
-
-> goal
-Become a strong developer with cyber security awareness
-````
+* 💻 Frontend Developer focused on modern web interfaces
+* ⚛️ Learning React and full-stack development
+* 🔐 Exploring Cyber Security and Ethical Hacking
+* 🗄️ Working with MongoDB and MySQL
+* 🌱 Constantly improving JavaScript and problem-solving skills
+* 📍 Pune, Maharashtra, India
 
 ---
 
-## 🚀 Current Focus
+## 🛠️ Tech Stack
 
-| Area           | What I’m Learning                |
-| -------------- | -------------------------------- |
-| Frontend       | React, JavaScript, Responsive UI |
-| Backend        | Node.js, Express.js              |
-| Database       | MongoDB, MySQL                   |
-| Cyber Security | Linux, Networking, Web Security  |
-| Tools          | Git, GitHub, VS Code             |
+### Frontend
 
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
 
-## 🧰 Tech Stack
+### Backend & Database
 
-<div align="center">
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,mysql,linux,git,github,vscode&theme=dark" />
+### Tools
 
-</div>
-
----
-
-## 💼 Experience
-
-### 🏢 Aptara Corporation
-
-**Process Associate — HTML Tagging & PDF Accessibility**
-
-* Working with HTML tagging and structured content
-* Handling PDF accessibility workflow
-* Quality checking and content validation
-* Learning professional workflow and delivery standards
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
@@ -86,124 +55,86 @@ Become a strong developer with cyber security awareness
 
 ### 🚗 Vehicle Tracker
 
-A responsive frontend project for vehicle-related data and interface handling.
+Responsive vehicle tracking interface built using HTML, CSS, and JavaScript.
 
-**Tech Used:** HTML, CSS, JavaScript
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Project-22c55e?style=for-the-badge\&logo=vercel\&logoColor=white)](https://ash-krsna.github.io/codex-)
+🔗 Live Demo: https://ash-krsna.github.io/codex-
 
 ---
 
 ### 🌍 NGO Management System
 
-A full-stack NGO platform with donation, volunteer, contact, and management features.
+Full-stack platform with donation, volunteer registration, and management features.
 
-**Tech Used:** Flask, MySQL, HTML, CSS, JavaScript
+**Tech:** Flask, MySQL, HTML, CSS, JavaScript
 
 ---
 
 ### 🏫 BSB International School Website
 
-A school website designed for admissions, facilities, information pages, and responsive presentation.
+Modern responsive website for admissions, facilities, and school information.
 
-**Tech Used:** HTML, CSS, JavaScript
+**Tech:** HTML, CSS, JavaScript
 
 ---
 
 ### 👥 Random User API Project
 
-API-based project that fetches and displays random user data dynamically.
+Dynamic user data rendering using Fetch API and JavaScript.
 
-**Tech Used:** HTML, CSS, JavaScript, Fetch API
+**Tech:** HTML, CSS, JavaScript, REST API
 
 ---
 
-## 🛡️ Cyber Security Journey
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ash-krsna&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash-krsna&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ash-krsna&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Current Focus
 
 ```text
-[ akash@secure-terminal ] $ start-security-mode
-
-[OK] Learning Linux fundamentals
-[OK] Understanding networking basics
-[OK] Exploring web application security
-[OK] Studying ethical hacking concepts
-[OK] Building with secure development awareness
+Frontend Development      █████████░ 90%
+JavaScript                ████████░░ 80%
+React                     ███████░░░ 70%
+Node.js                   █████░░░░░ 50%
+Cyber Security            █████░░░░░ 50%
 ```
 
-### Topics I’m Exploring
-
-* Linux commands
-* Networking fundamentals
-* Web security basics
-* Authentication flow safety
-* OWASP fundamentals
-* Ethical hacking concepts
-
 ---
 
-## 📊 GitHub Analytics
+## 💼 Experience
 
-<div align="center">
+### Aptara Corporation
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ash-krsna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" />
+**Process Associate — HTML Tagging & PDF Accessibility**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash-krsna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" />
-
-<br/><br/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=ash-krsna&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" />
-
-</div>
-
----
-
-## 📈 Learning Progress
-
-| Skill          | Progress       |
-| -------------- | -------------- |
-| HTML/CSS       | █████████░ 90% |
-| JavaScript     | ████████░░ 80% |
-| React          | ███████░░░ 70% |
-| Node.js        | █████░░░░░ 50% |
-| Cyber Security | █████░░░░░ 50% |
-
----
-
-## 🎯 2026 Goals
-
-* Build stronger React projects
-* Master JavaScript deeply
-* Learn Node.js and Express properly
-* Build full-stack applications
-* Improve cyber security fundamentals
-* Create a strong developer portfolio
-* Get a high-growth developer role
+* HTML content structuring
+* Accessibility compliance
+* Quality assurance
+* Production workflow management
 
 ---
 
 ## 🤝 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/ash-krsna">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://ash-krsna.github.io/codex-">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-14b8a6?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
-</a>
-
-</div>
+* GitHub: https://github.com/ash-krsna
+* Portfolio: https://ash-krsna.github.io/codex-
 
 ---
 
 <div align="center">
 
-## 💬 Quote
+### 💡 Motto
 
-> “Build interfaces that feel powerful, write code that stays clean, and think one step ahead.”
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:2563eb&height=130&section=footer" />
+**Build Clean • Learn Fast • Think Secure**
 
 </div>
-```
+
